@@ -1,0 +1,12 @@
+# Never commit AWS key material or credentials
+*.pem
+*.ppk
+*.csv
+.env
+credentials
+aws-exports.js
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
